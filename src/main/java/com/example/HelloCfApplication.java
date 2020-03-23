@@ -14,7 +14,7 @@ public class HelloCfApplication {
 	// ここから追加
 	@GetMapping("/") 
 	String hello() {
-			return "Hello, CF!!";
+			return "Hello, CF v1!!";
 	}
 	// ここまで
 
